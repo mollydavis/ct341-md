@@ -1,2 +1,2 @@
 # ct341-md
-CT341 Spring 22
+Coding class at FIT

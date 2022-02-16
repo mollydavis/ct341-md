@@ -1,15 +1,22 @@
-h1 {
+h1 { /*typography*/
     font-family: 'Abril Fatface', cursive;
     font-size: 30px;
     color: #00cc99;
 }
-h2 {
+h2 { /*typography*/
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
     color: #33cccc;
 }
-p {
+p { /*typography*/
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
     color: #0066cc;
 }
+
+
+/*Layout*/
+
+
+
+/*Media*/

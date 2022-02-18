@@ -13,7 +13,11 @@ p { /*typography*/
     font-size: 14px;
     color: #0066cc;
 }
-
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #0066cc;
+}
 
 /*Layout*/
 

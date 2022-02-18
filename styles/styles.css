@@ -8,6 +8,11 @@ h2 { /*typography*/
     font-size: 20px;
     color: #33cccc;
 }
+h3 { font-family: 'Abril Fatface', cursive;
+    font-size: 15px;
+    color: #00cc99;
+
+}
 p { /*typography*/
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
